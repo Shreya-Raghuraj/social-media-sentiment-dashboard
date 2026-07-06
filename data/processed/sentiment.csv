@@ -1,0 +1,11 @@
+text,date,sentiment
+"I love this phone!",2026-07-01,Positive
+"This is terrible.",2026-07-01,Negative
+"It's okay.",2026-07-02,Neutral
+"Amazing customer support!",2026-07-02,Positive
+"Worst experience ever.",2026-07-03,Negative
+"Pretty decent product.",2026-07-03,Positive
+"Not bad, could improve.",2026-07-04,Neutral
+"Excellent quality!",2026-07-04,Positive
+"I hate the update.",2026-07-05,Negative
+"Fantastic service!",2026-07-05,Positive
