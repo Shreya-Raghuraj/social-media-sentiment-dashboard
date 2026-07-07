@@ -1,12 +1,12 @@
 # Social Media Sentiment Dashboard
 
-## 📌 Overview
+##  Overview
 
 The Social Media Sentiment Dashboard is a Streamlit-based web application that analyzes social media tweets and classifies them into Positive, Negative, and Neutral sentiments. The dashboard provides interactive visualizations to help users understand sentiment distribution within a dataset.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Upload and analyze tweet datasets
 - Text preprocessing and cleaning
@@ -17,7 +17,7 @@ The Social Media Sentiment Dashboard is a Streamlit-based web application that a
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
